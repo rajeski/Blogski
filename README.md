@@ -1,2 +1,12 @@
-# Blogski
-Udacity Front End Web Developer Nanodegree, Project 1. Personal Blog Website
+# Blogski: Personal Blog Website
+
+#### Created with - 
+
+- CSS
+
+- Font Awesome
+
+- Google Fonts
+
+- HTML
+
